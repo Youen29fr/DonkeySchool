@@ -344,3 +344,16 @@ footer {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+/* Responsive design */
+@media (max-width: 600px) {
+    header{
+        background-color: greenyellow;
+    }
+    main{
+        background-color: greenyellow;
+    }
+    footer{
+        background-color: greenyellow;
+    }
+}
